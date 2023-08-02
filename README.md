@@ -26,7 +26,7 @@ NPS in 5 point Scale:
 
 ![image](https://github.com/gauthamgtg/Flash.co-Play-Store-Review-NPS-Analysis/assets/128295307/5a624e41-7ece-43da-8295-0758c2f2ce0e)
 
-<h2>NPS Analysis on Tableau:</h2>
+<h2>Flash.io NPS Analysis on Tableau:</h2>
 
 ![Flash NPS Analysis)](https://github.com/gauthamgtg/Flash.co-Play-Store-Review-NPS-Analysis/assets/128295307/e05f5e34-0adb-4fcc-a52e-025985e58a15)
 
