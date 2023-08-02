@@ -1,5 +1,8 @@
 # Flash.co-Play-Store-Review-NPS-Analysis
 
+Flash.co - An email id made for shopping & packed with cashbacks!
+First in the world! Made in India!
+
 <h1>Net Promoter Score (NPS) </h1>
 
 * Net Promoter Score (NPS) is a customer loyalty indicator and measurement methodology. 
