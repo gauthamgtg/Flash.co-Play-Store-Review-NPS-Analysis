@@ -1,4 +1,4 @@
-# Flash.co-Play-Store-Review-NPS-Analysis
+# Flash.co- Playstore and Appstore Review NPS Analysis
 
 Flash.co - An email id made for shopping & packed with cashbacks!
 First in the world! Made in India!
