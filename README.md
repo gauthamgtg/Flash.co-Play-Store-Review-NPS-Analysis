@@ -23,6 +23,9 @@ Industry average benchmarks for NPS:
 
 ![image](https://github.com/gauthamgtg/Flash.co-Play-Store-Review-NPS-Analysis/assets/128295307/5a624e41-7ece-43da-8295-0758c2f2ce0e)
 
+NPS Analysis on Tableau:
+
+![Flash NPS Analysis](https://github.com/gauthamgtg/Flash.co-Play-Store-Review-NPS-Analysis/assets/128295307/f58f2239-6fe8-4f97-9e69-610477480af9)
 
 Scrapper used : https://pypi.org/project/google-play-scraper/
 Tool used: Python
